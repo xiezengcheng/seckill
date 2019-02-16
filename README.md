@@ -11,4 +11,4 @@
   
   项目里的注释代码为高并发优化代码 seckill.sql 为高并发优化中存储过程的命令
 
-参考博客顺序：
+参考博客顺序：https://blog.csdn.net/qq_41750725/article/details/87307762
